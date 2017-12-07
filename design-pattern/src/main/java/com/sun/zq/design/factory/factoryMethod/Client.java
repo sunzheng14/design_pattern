@@ -1,8 +1,8 @@
-package com.sun.zq.design.factory;
+package com.sun.zq.design.factory.factoryMethod;
 
-import com.sun.zq.design.factory.product.Human;
-import com.sun.zq.design.factory.product.WhiteHuman;
-import com.sun.zq.design.factory.product.YellowHuman;
+import com.sun.zq.design.factory.factoryMethod.product.Human;
+import com.sun.zq.design.factory.factoryMethod.product.WhiteHuman;
+import com.sun.zq.design.factory.factoryMethod.product.YellowHuman;
 
 public class Client {
 

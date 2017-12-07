@@ -1,4 +1,4 @@
-package com.sun.zq.design.factory.product;
+package com.sun.zq.design.factory.factoryMethod.product;
 
 public class BlankHuman implements Human {
 
